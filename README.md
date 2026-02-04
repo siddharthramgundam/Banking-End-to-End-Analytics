@@ -107,4 +107,33 @@ financial products.
 ---
 
 
+📊 Dashboard Overview
+
+Time-based trends of deposits, loans, and account balances
+
+Customer segmentation by age, gender, nationality, and income
+
+Distribution analysis of deposits, savings, checking accounts, and loans
+
+KPI comparison to identify high-value and high-risk customer segments
+
+---
+
+🔍 Key Insights
+
+Customers with high balances in one account type usually maintain high balances across others
+
+Certain demographic segments show consistently higher loan exposure
+
+High-income customers contribute disproportionately to total deposits
+
+Strong relationship observed between income levels and product usage
+
+---
+👤 Author
+
+Siddharth Ramgundam
+📧 Email: ramgundamsiddharth@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/siddharth-ramgundam
+
 
